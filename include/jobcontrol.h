@@ -4,5 +4,6 @@
     #include <stdio.h>
     #include <string.h>
 
+void help(void);
 
 #endif
